@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+    justify-content: space-between;
+    margin:0 36%;
+}
+.title { 
+    list-style: none;
+}
+.primari-text {
+    list-style: none;
+    width: 100%;
+    text-align: center;
+}
+
+a { font-size: 4rem; 
+    margin: 36%;
+} 
+
+b { font-size: 2rem;
+    text-align: center;
+
+}
